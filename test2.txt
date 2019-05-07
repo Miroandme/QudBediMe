@@ -1,2 +1,3 @@
 Some text has been added.
 2n line agged
+New Line
